@@ -18,4 +18,4 @@ void func1(void) {
     int y = 0;          // Automatic variable
 
     printf("x = %d, y = %d\n", x++, y++);
-}
+} //ok done
